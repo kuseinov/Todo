@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kuseinov/Todo/static/css/main.e6c13ad2.css",
+    "main.js": "/kuseinov/Todo/static/js/main.b5a2d968.js",
+    "index.html": "/kuseinov/Todo/index.html",
+    "main.e6c13ad2.css.map": "/kuseinov/Todo/static/css/main.e6c13ad2.css.map",
+    "main.b5a2d968.js.map": "/kuseinov/Todo/static/js/main.b5a2d968.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b5a2d968.js"
+  ]
+}
